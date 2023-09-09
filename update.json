@@ -1,6 +1,13 @@
 {
     "API_1": {
-      "Class": "L8X, RCO-Client-Optimizer",
+      "Class": "Version",
       "key": "2.0"
+    },
+    "API_2": {
+      "Class": "VersionInfo",
+      "key": "Version 2.0
+    Release Notes:
+    - Bug fixes
+    - New features"
     }
 }
