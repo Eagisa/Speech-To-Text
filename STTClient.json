@@ -1,0 +1,10 @@
+{
+	"SpeechEngine.log": "~\\AppData\\Local\\SpeechToText\\logs\\SpeechEngine.log",
+	"Microphone.log": "~\\AppData\\Local\\SpeechToText\\logs\\Microphone.log",
+    "UpdateChecker.log": "~\\AppData\\Local\\SpeechToText\\logs\\UpdateChecker.log",
+    "updater.log": "~\\AppData\\Local\\SpeechToText\\logs\\updater.log",
+    "Clear.log": "~\\AppData\\Local\\SpeechToText\\logs\\Clear.log",
+    "Speech.txt": "~\\AppData\\Local\\SpeechToText\\speech.txt",
+    "Version.json": "~\\AppData\\Local\\SpeechToText\\LocalStorage\\version.json",
+    "UpdateChecker.json": "~\\AppData\\Local\\SpeechToText\\LocalStorage\\UpdateChecker.json"
+}
