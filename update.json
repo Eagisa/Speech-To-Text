@@ -1,7 +1,7 @@
 {
 
   "SpeechEngine": {
-    "class": "SpeechEngine v2.0.exe",
+    "class": "SpeechEngine v1.0.exe",
     "value": "https://drive.google.com/uc?id=1Td1d2G3a8eXctWZEPC71Anh8SHS-Aivw"
   }
   
