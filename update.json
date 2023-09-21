@@ -1,7 +1,7 @@
 {
 
   "SpeechEngine": {
-    "class": "SpeechEngine v2.0.exe",
+    "class": "SpeechEngine v1.0.exe",
     "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/SpeechEngine%20v2.0.exe"
   },
 
