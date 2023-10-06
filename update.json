@@ -1,7 +1,7 @@
 {
 
   "SpeechToText": {
-    "class": "SpeechToText v3.0.exe",
+    "class": "SpeechToText v4.0.exe",
     "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/SpeechToText%20v3.0.exe"
   },
 
