@@ -1,7 +1,0 @@
-{
-    "UpdateChecker": {
-      "class": "UpdateChecker",
-      "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/update.json"
-    }
-}
-  
