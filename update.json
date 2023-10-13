@@ -1,7 +1,7 @@
 {
 
   "SpeechToText": {
-    "version": "4.0",
+    "version": "3.0",
     "client": "https://github.com/Eagisa/Speech-To-Text"
   },
 
