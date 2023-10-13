@@ -1,12 +1,12 @@
 {
 
   "SpeechToText": {
-    "class": "v3.0",
-    "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/SpeechToText%20v3.0.exe"
+    "version": "3.0",
+    "client": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/SpeechToText%20v3.0.exe"
   },
 
   "SpeechIco": {
-    "class": "SpeechToText_ico",
+    "name": "SpeechToText_icon",
     "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/Speech.ico"
   }
   
