@@ -1,0 +1,1 @@
+SpeechToText is a voice recorder that will detect your voice when you have click on "Start" button, and after done recording it will save in a form of transcript and then it will automatically displays the transcript on the white box in a form of words and numbers and you can use the transcript as you please. Thank you for using my program i appreciate it.
