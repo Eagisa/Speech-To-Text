@@ -2,7 +2,7 @@
 
   "SpeechToText": {
     "version": "4.0",
-    "client": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/SpeechToText%20v3.0.exe"
+    "client": "https://github.com/Eagisa/Speech-To-Text"
   },
 
   "SpeechIco": {
