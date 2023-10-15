@@ -8,6 +8,11 @@
   "SpeechIco": {
     "name": "SpeechToText_icon",
     "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/Speech.ico"
+  },
+
+  "SpeechSettingsIco": {
+    "name": "SpeechToText_Settings_icon",
+    "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/Settings.png"
   }
   
 }
