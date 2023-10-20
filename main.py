@@ -5,6 +5,7 @@ from tkinter import messagebox
 import json
 import shutil
 import pyaudio
+import webbrowser as web
 
 
 #Current version of SpeechToText Client
