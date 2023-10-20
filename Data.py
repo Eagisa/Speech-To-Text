@@ -179,3 +179,33 @@ def FileChecker():
     #====================#
     UpdateNotifier()
     #====================#
+
+#This is a function that will notify you for avaliable updates
+#=================================================================================================================#
+def UpdateNotifier():
+    try:
+        response = requests.get(ClientBootstrapper)
+
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Parse the JSON data into a Python object
+            data = json.loads(response.text)
+
+            # Checks for new avaliable clients
+            latest_version = data.get("SpeechToText", {}).get("version")
+
+            client_files = data.get("SpeechToText", {}).get("client")
+
+            # Check the values and log updates accordingly
+            if not latest_version == SpeechToText_Version:
+                update = messagebox.askyesno("SpeechToText Update",f"SpeechToText v{latest_version} is avaliable do you want to download?")
+                if update == True:
+                    web.open(client_files)
+                else:
+                    main()
+            else:
+                main()
+
+    except Exception as e:
+        pass
+#=================================================================================================================#
