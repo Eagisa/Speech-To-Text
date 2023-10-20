@@ -17,7 +17,7 @@
 
   "SpeechToTextData": {
     "name": "Data",
-    "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/Data.py"
+    "value": "https://raw.githubusercontent.com/Eagisa/Speech-To-Text/main/main.py"
   }
   
 }
